@@ -1,0 +1,7 @@
+title: RunForge
+description: Deterministic routine engine that records how an agent solves a task, evaluates multiple approaches, locks the best method, and replays it identically every time with trust verification and automated scheduling.
+github: https://github.com/nessus-glitch/runforge-plugin
+tags:
+  - tools
+  - workflow
+  - automation
